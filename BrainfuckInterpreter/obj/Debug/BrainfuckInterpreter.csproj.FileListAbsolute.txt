@@ -1,0 +1,6 @@
+c:\users\papp bence\documents\visual studio 2015\Projects\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\BrainfuckInterpreter.exe.config
+c:\users\papp bence\documents\visual studio 2015\Projects\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\BrainfuckInterpreter.csprojResolveAssemblyReference.cache
+c:\users\papp bence\documents\visual studio 2015\Projects\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\BrainfuckInterpreter.exe
+c:\users\papp bence\documents\visual studio 2015\Projects\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\BrainfuckInterpreter.pdb
+c:\users\papp bence\documents\visual studio 2015\Projects\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\BrainfuckInterpreter.exe
+c:\users\papp bence\documents\visual studio 2015\Projects\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\BrainfuckInterpreter.pdb
